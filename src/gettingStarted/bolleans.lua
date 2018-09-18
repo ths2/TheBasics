@@ -1,0 +1,5 @@
+print(0 and 4)
+print(0 or 4)
+print(nil and 13)
+print(nil or 13)
+print(type(nil))
